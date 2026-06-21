@@ -34793,7 +34793,7 @@
     "id": "agentage-memory",
     "name": "Agentage Sync",
     "author": "agentage",
-    "description": "Let Claude, ChatGPT, Cursor, and any MCP client read and write your Obsidian vault. Two-way Git sync to a private memory, safe merges with flagged conflicts, plain Markdown you own. Up to 100 MB included.",
+    "description": "Let Claude, ChatGPT, Cursor, and any MCP client read and write your vault. Two-way Git sync to a private memory, safe merges with flagged conflicts, plain Markdown you own. Up to 100 MB included.",
     "repo": "agentage/obsidian-sync"
   }
 ]
